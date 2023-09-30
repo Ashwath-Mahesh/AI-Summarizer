@@ -1,7 +1,5 @@
 # Workshop-Project-2-AISummarizer
 
-# Workshop-Project-1-Instagram
-
 ### Installation
 
 1. Get a free API Key at [https://huggingface.co/](https://huggingface.co/)
