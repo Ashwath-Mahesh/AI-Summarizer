@@ -17,7 +17,7 @@ const App = () => {
     try {
       setLoading(true); // Set loading to true when summarization starts
 
-      const result = await axios.post('http://localhost:5000/api/summarize', {
+      const result = await axios.post('http://localhost:4000/api/summarize', {
         inputs: inputText,
         parameters: {
           max_length: 100,
